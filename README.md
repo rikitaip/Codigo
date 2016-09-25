@@ -11,3 +11,5 @@ Model: Emails_model.php
 Views: menu.php, inclusao.php, alteracao.php e exclusao.php
 
 localhost/gerenciador/index.php/emails/menu_show
+
+gerenciamento.sql pra importa o script sql e construir o banco

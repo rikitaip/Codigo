@@ -1,3 +1,5 @@
+Utilizei Sublime Text 3, WampServer e Framework CodeIgniter.
+
 QUESTAO 1:
 
 Criei um controller chamado questao1.php que executa as operaçoes
